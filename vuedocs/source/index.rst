@@ -29,7 +29,7 @@ vuejs使用总结（Vue2.0）
 备注
 -----------------------
 
-Author: xyujie
+Author： xyujie
 
 此文档为本人实际操作总结而来，供参考；
 
